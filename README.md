@@ -1,12 +1,8 @@
 ---
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: 837224e5a5565b14c57898474375dec9
-    PropagateID: 837224e5a5565b14c57898474375dec9
-    ReservedCode1: 304402205cd4c6871a3481b996a1735039f53d7c3eed7f8e0fd66fa5ad71996730caffd502206b5f693b2acd3bec61fbb15ce37e7ec906a76711903b644a394661c9ce60f4c5
-    ReservedCode2: 3045022100b64c91cf6f59a9000c63579ebf179ee62f5496a047e07f5b4fd80ce95c50223c02205307fa0a634a9715e0c1eb3185fd51be03cac56a52d3c721c9ed2422b843951e
+Author:
+    ContentProducer: Siyuan Deng
+    ContentPropagator: Siyuan Deng
+    University：Imperial College London
 ---
 
 # Knowledge Hygiene
