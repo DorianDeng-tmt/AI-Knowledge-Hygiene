@@ -2,7 +2,7 @@
 Author:
     ContentProducer: Siyuan Deng
     ContentPropagator: Siyuan Deng
-    University：Imperial College London
+    University: Imperial College London
 ---
 
 # Knowledge Hygiene
